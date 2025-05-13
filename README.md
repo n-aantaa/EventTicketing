@@ -57,3 +57,4 @@ node server.js
 | -------- | --------------------------------- | -------------------------------- | -------------------------------------- |
 | `POST`    | `/api/auth/register`                     | Register a new user           | `name`, `email`, `password`                                    |
 | `POST`   | `/api/auth/login`                      | Login into account              | `email`, `password`  |
+# EventTicketing
